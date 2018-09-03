@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Wat een onzin type ik hier weer
+My projects are always under construction.
+
 
 ![constructocat](https://octodex.github.com/images/constructocat2.jpg)
 {: .center}
