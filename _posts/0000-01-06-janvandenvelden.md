@@ -2,8 +2,7 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-
-Deze is van mij
+nvchjr
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
