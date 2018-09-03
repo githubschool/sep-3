@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Deze is van mij
+Let's have conflicts!
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
